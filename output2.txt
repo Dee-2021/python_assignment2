@@ -1,0 +1,31 @@
+PS C:\Users\253604\Desktop\Assignment> & C:/Users/253604/AppData/Local/Programs/Python/Python38/python.exe c:/Users/253604/Desktop/Assignment/assignmentpart2.py
+
+List with the use of Numbers:
+[1, 2, 4, 4, 3, 3, 3, 6, 5]
+
+List with the use of Mixed Values:
+[1, 2, 'Geeks', 4, 'For', 6, 'Geeks']
+
+ List with four different data types
+['Deepika', 'Python', 1, 2, 3, (3+4j), (4+6j), 4.5, 3.5, 6.7]
+[70, 30, 20]
+[50, 30, 90]
+[50, 70, 30, 20, 90]
+[90, 20, 30, 70, 50]
+[2, 4, 5, 6, 'deep', 3.41, 'python']
+[4]
+[4, 10]
+[4, 10, 18]
+sum of all the elements in a given list:  11
+sum of all the elements in a given list:  16
+sum of all the elements in a given list:  33
+sum of all the elements in a given list:  51
+sum of all the elements in a given list:  74
+largest element is: 89
+smallest element is: 20
+Original list:
+[11, 22, 33, 44, 55, 66]
+list after removing Even numbers:
+[11, 33, 55]
+[1, 3, 5, 7, 9, 2, 4, 6, 8]
+PS C:\Users\253604\Desktop\Assignment>
